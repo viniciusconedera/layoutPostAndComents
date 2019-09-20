@@ -1,0 +1,22 @@
+div#comment {
+  display: flex;
+  margin: 0px 10px;
+}
+
+.avatar {
+  padding: 10px;
+  border-radius: 90px;
+  max-height: 40px;
+  min-width: 40px;
+  margin: 10px;
+}
+.name {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.commentText {
+  padding: 10px;
+  background-color: gainsboro;
+  border-radius: 25px;
+}

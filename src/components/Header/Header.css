@@ -1,0 +1,19 @@
+div#header {
+  background-color: cornflowerblue;
+  color: #FFF;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 6%;
+  max-height: 55px;
+}
+
+.title {
+  font-size: 28px;
+  margin: 08px;
+}
+
+.perfil {
+  font-size: 18px;
+  margin: 16px;
+}

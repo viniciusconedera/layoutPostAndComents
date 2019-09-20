@@ -1,0 +1,49 @@
+.postContainer {
+  background-color: white;
+  margin: 20px 0px;
+  border-radius: 10px;
+}
+
+.post {
+  display: flex;
+}
+
+.avatar {
+  border-radius: 90px;
+  max-width: 50px;
+  margin: 10px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  margin-top: 17px;
+}
+
+.name {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.date {
+  margin-top: 5px;
+  font-size: 10px;
+  color: gray;
+  font-weight: bold;
+}
+
+.postText {
+  font-size: 18px;
+  margin: 5px 10px 5px 20px;
+  min-height: 25px;
+}
+
+.comments {
+  margin: 5px 40px;
+}
+
+.line {
+  height: 1px;
+  background-color: gray;
+  margin: 15px 5px;
+}
